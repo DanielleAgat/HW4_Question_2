@@ -1,0 +1,3 @@
+/Users/Agat/Desktop/לימודים/שנה א/סמסטר ב/תכנות מתקדם/מטלות/HW4/Question_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Agat/Desktop/לימודים/שנה א/סמסטר ב/תכנות מתקדם/מטלות/HW4/Question_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Agat/Desktop/לימודים/שנה א/סמסטר ב/תכנות מתקדם/מטלות/HW4/Question_2/cmake-build-debug/CMakeFiles/Question_2.dir
