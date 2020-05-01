@@ -6,10 +6,9 @@
  */
 
 #include <stdio.h>
-#include <stdlib.h>
 #include "Tree.h"
 
-typedef int BOOL;
+
 #define SIZE 100
 
 void main(){
