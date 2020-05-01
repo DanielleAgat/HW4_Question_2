@@ -4,7 +4,10 @@
 #include "Tree.h"
 
 int buildExpressionTree(char* str,Tree* tr){
-    if(isValidString(str) == FALSE) return FALSE;
+    if(isValidString(str) == FALSE) {
+        tr->root = NULL;
+        return FALSE;
+    }
     tr->root = _build_Expression_tree(str,tr->root);
     return TRUE;
 }
