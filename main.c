@@ -1,15 +1,14 @@
 //Student's Name: Danielle Agat Levi
 //Student's ID: 313357329
 
-/* This program
- * TODO: FILL!!!
+/* This program gets a mathematical expression and creates an expression tree.
+ * If the expression was valid then it calculates and prints its value.
  */
 
 #include <stdio.h>
-#include <stdlib.h>
 #include "Tree.h"
 
-typedef int BOOL;
+
 #define SIZE 100
 
 void main(){
