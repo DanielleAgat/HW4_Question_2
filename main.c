@@ -1,8 +1,8 @@
 //Student's Name: Danielle Agat Levi
 //Student's ID: 313357329
 
-/* This program
- * TODO: FILL!!!
+/* This program gets a mathematical expression and creates an expression tree.
+ * If the expression was valid then it calculates and prints its value.
  */
 
 #include <stdio.h>
